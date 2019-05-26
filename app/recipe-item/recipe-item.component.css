@@ -1,0 +1,12 @@
+p {
+  height: 20px;
+  padding: 5px;
+  border: 1px solid lightgrey;
+  margin: 0;
+}
+
+p:hover {
+  background-color: orange;
+  color: white;
+  cursor: pointer;
+}
